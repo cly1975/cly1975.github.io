@@ -1,4 +1,11 @@
-theme: jekyll-theme-Tactile
+#theme: jekyll-theme-Tactile
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: [苦的止息]
+description: [汉译巴利三藏]
+
 
 # Google Adsense,不需要请设置为false
 # _includes/ext-adsense.html 里面修改为自己的配置
