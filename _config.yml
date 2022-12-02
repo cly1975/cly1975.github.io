@@ -4,7 +4,7 @@ plugins:
 
 title: 苦的止息
 description: 阅读原始佛经
-show_downloads: true
+show_downloads: false
 
 # Google Adsense,不需要请设置为false
 # _includes/ext-adsense.html 里面修改为自己的配置
