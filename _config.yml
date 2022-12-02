@@ -1,7 +1,9 @@
-theme: jekyll-theme-slate
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [苦的止息]
-description: [汉译巴利三藏]
+title: 苦的止息
+description: 阅读原始佛经
 
 
 # Google Adsense,不需要请设置为false
