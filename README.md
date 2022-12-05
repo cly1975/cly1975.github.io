@@ -7,8 +7,8 @@
 
 | 南传早期经典（Nikaya）  | 北传早期经典（阿含经）|
 | :-----: | :-----: |
-|[长部](chilin/chang/SUMMARY.md)|[长部](chilin/chang/SUMMARY.md)|
-| [中部](chilin/zhong/SUMMARY.md) | [中部](chilin/zhong/SUMMARY.md) |
-| [相应部](chilin/xiangying/SUMMARY.md) | [相应部](chilin/xiangying/SUMMARY.md) |
-| [增支部](chilin/zengzhi/SUMMARY.md)  | [增支部](chilin/zengzhi/SUMMARY.md) |
+|[长部](chilin/chang/SUMMARY.md)|[长阿含经](ahan/chang/SUMMARY.md)|
+| [中部](chilin/zhong/SUMMARY.md) | [中阿含经](ahan/zhong/SUMMARY.md) |
+| [相应部](chilin/xiangying/SUMMARY.md) | [杂阿含经](ahan/za/SUMMARY.md) |
+| [增支部](chilin/zengzhi/SUMMARY.md)  | [增一阿含经](ahan/zengyi/SUMMARY.md) |
 
