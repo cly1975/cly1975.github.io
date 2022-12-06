@@ -5,7 +5,7 @@
 
 目录：
 
-| 南传早期经典 [Nikaya]  | 北传早期经典 [阿含经] |
+| 南传早期佛经 [Nikaya]  | 北传早期佛经 [阿含经] |
 | :-----: | :-----: |
 | [中部](chilin/zhong/SUMMARY.md) | [中阿含经](ahan/zhong/SUMMARY.md) |
 | [长部](chilin/chang/SUMMARY.md)| [长阿含经](ahan/chang/SUMMARY.md)|
