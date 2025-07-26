@@ -52,7 +52,7 @@ function createFloatingLayer() {
     div.appendChild(closeButton);
 
     var iframe = document.createElement('iframe');
-    iframe.src = "https://chat.hhpp.com/";
+    iframe.src = "https://www.kimi.com/";
     iframe.style.width = '100%';
     iframe.style.height = '100%';
     iframe.style.border = 'none';
