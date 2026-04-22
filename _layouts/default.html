@@ -40,13 +40,8 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           {% assign current_url = page.url | default: "/" %}
-          {% assign is_english_section = current_url contains '/sutta/' %}
-          <h1 id="project_title">
-            {% if is_english_section %}Ending of Suffering{% else %}{{ site.title | default: site.github.repository_name }}{% endif %}
-          </h1>
-          <h2 id="project_tagline">
-            {% if is_english_section %}Read Early Buddhist Discourses{% else %}{{ site.description | default: site.github.project_tagline }}{% endif %}
-          </h2>
+          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
           <p class="lang-switch">
             <a href="{{ '/chilin/' | relative_url }}" lang="zh-Hans" class="{% if current_url contains '/chilin/' %}active{% endif %}">中文</a>
             <span class="sep">|</span>
@@ -68,7 +63,7 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><a href="javascript:history.back()">回退</a> - <a href="https://www.nikaya.cc">首页</a> </p>
+        <p><a href="javascript:history.back()">Back</a> - <a href="https://www.nikaya.cc">Home</a> </p>
         <p  class="copyright">Published with GitHub Pages</p>
         <script src="https://www.nikaya.cc/codex/p.js"></script>
       </footer>
