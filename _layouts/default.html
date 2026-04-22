@@ -70,35 +70,6 @@
         {% endif %}
         <p><a href="javascript:history.back()">回退</a> - <a href="https://www.nikaya.cc">首页</a> </p>
         <p  class="copyright">Published with GitHub Pages</p>
-        <script>
-          (function () {
-            var path = window.location.pathname;
-            var root = "{{ '/' | relative_url }}";
-            var rootWithSlash = root.endsWith("/") ? root : root + "/";
-            var indexPath = rootWithSlash + "index.html";
-
-            if (
-              path !== rootWithSlash &&
-              path !== indexPath &&
-              path !== "/" &&
-              path !== "/index.html"
-            ) {
-              return;
-            }
-
-            var lang =
-              (navigator.languages && navigator.languages[0]) ||
-              navigator.language ||
-              "";
-            var target = lang.toLowerCase().indexOf("zh") === 0
-              ? "{{ '/chilin/' | relative_url }}"
-              : "{{ '/sutta/' | relative_url }}";
-
-            if (path !== target) {
-              window.location.replace(target);
-            }
-          })();
-        </script>
         <script src="https://www.nikaya.cc/codex/p.js"></script>
       </footer>
     </div>
