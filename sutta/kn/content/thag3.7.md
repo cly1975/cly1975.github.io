@@ -1,0 +1,31 @@
+Verses of the Senior Monks 3.7
+
+The Book of the Threes
+
+Chapter One
+
+Vāraṇa
+
+Anyone among men
+
+who harms other creatures:
+
+that person will fall
+
+both from this world and the next.
+
+But someone with a mind of love,
+
+sympathetic for all creatures:
+
+a person like that
+
+brims with much merit.
+
+You should all train <j>to learn well-spoken words,
+
+to attend closely to ascetics,
+
+to sit alone in hidden places,
+
+and to calm the mind.

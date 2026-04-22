@@ -1,0 +1,23 @@
+Verses of the Senior Monks 2.26
+
+The Book of the Twos
+
+Chapter Three
+
+Puṇṇamāsa (2nd)
+
+I gave up the five hindrances
+
+for the sake of sanctuary from the yoke.
+
+I took Dhamma as a mirror
+
+for knowing and seeing myself.
+
+I examined this body,
+
+all of it, inside and out.
+
+Internally and externally
+
+my body appeared hollow.

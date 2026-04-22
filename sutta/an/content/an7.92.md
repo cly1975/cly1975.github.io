@@ -1,0 +1,13 @@
+Numbered Discourses 7.92
+
+9. An Ascetic
+
+A Perfected One
+
+“Mendicants, it’s by being impeccably remote from seven things that you become a perfected one.
+
+What seven?
+
+Substantialist view, doubt, misapprehension of precepts and observances, greed, hate, delusion, and conceit.
+
+It’s because of being impeccably remote from these seven things that you become a perfected one.”

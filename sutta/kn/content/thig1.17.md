@@ -1,0 +1,17 @@
+Verses of the Senior Nuns 1.17
+
+The Book of the Ones
+
+Dhammā
+
+I wandered for alms
+
+though feeble, leaning on a staff.
+
+My limbs wobbled
+
+and I fell to the ground right there.
+
+Seeing the danger of the body,
+
+my mind was freed.

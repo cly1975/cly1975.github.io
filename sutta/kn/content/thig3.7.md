@@ -1,0 +1,29 @@
+Verses of the Senior Nuns 3.7
+
+The Book of the Threes
+
+Selā
+
+“There’s no escape in the world,
+
+so what will seclusion do for you?
+
+Enjoy erotic delights;
+
+don’t regret it later.”
+
+“Sensual pleasures are like swords and spears
+
+the aggregates are their chopping block.
+
+What you call erotic delight
+
+is now no delight for me.
+
+Relishing is banished in every respect,
+
+and the mass of darkness is shattered.
+
+So know this, Wicked One:
+
+you’re beaten, terminator!”

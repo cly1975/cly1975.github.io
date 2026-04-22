@@ -1,0 +1,15 @@
+Verses of the Senior Monks 1.15
+
+The Book of the Ones
+
+Chapter Two
+
+Kuṇḍadhāna
+
+Five to cut, five to drop,
+
+and five more to develop.
+
+When a mendicant slips five chains
+
+they’re said to have crossed the flood.

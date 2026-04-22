@@ -1,0 +1,15 @@
+Verses of the Senior Nuns 1.2
+
+The Book of the Ones
+
+Muttā (1st)
+
+Muttā, be released from your yokes,
+
+like the moon released from the eclipse.
+
+When your mind is released,
+
+enjoy your alms free of debt.
+
+That is how the Buddha regularly advised the trainee nun Muttā with these verses.

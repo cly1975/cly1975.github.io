@@ -1,0 +1,29 @@
+Verses of the Senior Nuns 3.3
+
+The Book of the Threes
+
+Another Uttamā
+
+Of the seven awakening factors,
+
+the path for attaining extinguishment,
+
+I have developed them all,
+
+just as the Buddha taught.
+
+I attain the meditations on emptiness
+
+and signlessness whenever I want.
+
+I am the Buddha’s rightful daughter,
+
+always delighting in extinguishment.
+
+All sensual pleasures are cut off,
+
+whether human or heavenly.
+
+Transmigration through births is finished,
+
+now there’ll be no more future lives.

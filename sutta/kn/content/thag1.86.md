@@ -1,0 +1,15 @@
+Verses of the Senior Monks 1.86
+
+The Book of the Ones
+
+Chapter Nine
+
+Nāgita
+
+Elsewhere there are many other doctrines;
+
+paths that, unlike this, don’t lead to extinguishment.
+
+For the Buddha himself instructs the Saṅgha;
+
+the Teacher shows the palms of his hands.

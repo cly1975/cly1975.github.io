@@ -1,0 +1,17 @@
+Numbered Discourses 3.41
+
+5. The Lesser Chapter
+
+Present
+
+“Mendicants, when three things are present, a faithful gentleman brims with much merit.
+
+What three?
+
+When faith is present,
+
+when a gift to give is present,
+
+and when those worthy of a religious donation are present.
+
+When these three things are present, a faithful gentleman brims with much merit.”

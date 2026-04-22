@@ -1,0 +1,15 @@
+Verses of the Senior Monks 1.24
+
+The Book of the Ones
+
+Chapter Three
+
+Sugandha
+
+See the excellence of the teaching!
+
+Just one rainy season after I went forth,
+
+I attained the three knowledges
+
+and fulfilled the Buddha’s instructions.

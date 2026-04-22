@@ -1,0 +1,15 @@
+Verses of the Senior Monks 1.55
+
+The Book of the Ones
+
+Chapter Six
+
+Añjanavaniya
+
+I plunged into the Añjana wood
+
+and made a hut to live in.
+
+I’ve attained the three knowledges
+
+and fulfilled the Buddha’s instructions.

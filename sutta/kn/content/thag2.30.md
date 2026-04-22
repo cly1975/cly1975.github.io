@@ -1,0 +1,23 @@
+Verses of the Senior Monks 2.30
+
+The Book of the Twos
+
+Chapter Three
+
+Kaṇhadinna
+
+I regularly sat close by true persons
+
+and learnt the teaching.
+
+What I learned, I practiced,
+
+the direct route whose objective is freedom from death.
+
+I’ve slain the desire for continued existence,
+
+it won’t be found in me again.
+
+It was not, and it won’t be in me,
+
+and it isn’t found in me now.

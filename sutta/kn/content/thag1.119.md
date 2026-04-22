@@ -1,0 +1,15 @@
+Verses of the Senior Monks 1.119
+
+The Book of the Ones
+
+Chapter Twelve
+
+Vajjiputta (2nd)
+
+You’ve left for the jungle, the root of a tree,
+
+having laid extinguishment in your heart.
+
+Meditate, Gotama, don’t be negligent!
+
+What use is this hullabaloo to you?

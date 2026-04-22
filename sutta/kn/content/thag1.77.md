@@ -1,0 +1,15 @@
+Verses of the Senior Monks 1.77
+
+The Book of the Ones
+
+Chapter Eight
+
+Hatthārohaputta
+
+In the past my mind wandered
+
+how it wished, where it liked, as it pleased.
+
+Now I’ll carefully guide it,
+
+as a trainer with a hook guides a rutting elephant.

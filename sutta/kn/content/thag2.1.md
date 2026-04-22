@@ -1,0 +1,25 @@
+Verses of the Senior Monks 2.1
+
+The Book of the Twos
+
+Chapter One
+
+Uttara (1st)
+
+No life is permanent,
+
+and no conditions last forever.
+
+The aggregates are reborn
+
+and pass away, again and again.
+
+Knowing this danger,
+
+I have no need for another life.
+
+I’ve escaped all sensual pleasures,
+
+and attained the ending of defilements.
+
+That is how these verses were recited by the senior venerable Uttara.

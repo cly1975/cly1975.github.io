@@ -1,0 +1,23 @@
+Verses of the Senior Monks 2.17
+
+The Book of the Twos
+
+Chapter Two
+
+Tissa (3rd)
+
+A shaven one wrapped in the outer robe
+
+gets many enemies
+
+when they receive food and drink,
+
+clothes and bedding.
+
+Knowing this danger,
+
+this great fear in honors,
+
+a mendicant should wander mindful,
+
+with few possessions, not festering.

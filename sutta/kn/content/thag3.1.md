@@ -1,0 +1,31 @@
+Verses of the Senior Monks 3.1
+
+The Book of the Threes
+
+Chapter One
+
+Aṅgaṇikabhāradvāja
+
+Seeking purity the wrong way,
+
+I served the sacred fire in a grove.
+
+Not knowing the path to purity,
+
+I practiced endless mortification.
+
+I’ve gained this happiness by means of happiness:
+
+behold the clear rightness of the teaching!
+
+I’ve attained the three knowledges
+
+and fulfilled the Buddha’s instructions.
+
+I used to be brahmin only by kin,
+
+but now I really am a brahmin!
+
+I am master of the three knowledges, <j>I’m a bathed initiate,
+
+I’m a scholar and a knowledge master.

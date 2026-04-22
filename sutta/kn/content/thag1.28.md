@@ -1,0 +1,15 @@
+Verses of the Senior Monks 1.28
+
+The Book of the Ones
+
+Chapter Three
+
+Jambugāmikaputta
+
+Aren’t you obsessed with clothes?
+
+Don’t you just love jewelry?
+
+Is it not you—and no-one else—
+
+who spreads the scent of virtue?

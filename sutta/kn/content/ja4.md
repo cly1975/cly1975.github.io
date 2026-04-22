@@ -1,0 +1,15 @@
+Stories of Past Lives 4
+
+The Book of the Ones
+
+Sure Bet
+
+The Little Financier: a past life story
+
+Even with a little capital
+
+the intelligent and clear-seeing man
+
+uplifts himself,
+
+like a tiny flame when fanned.

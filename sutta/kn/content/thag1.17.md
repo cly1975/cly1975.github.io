@@ -1,0 +1,15 @@
+Verses of the Senior Monks 1.17
+
+The Book of the Ones
+
+Chapter Two
+
+Dāsaka
+
+One who gets drowsy from overeating,
+
+fond of sleep, rolling round the bed
+
+like a great hog stuffed with grain:
+
+that dullard returns to the womb again and again.

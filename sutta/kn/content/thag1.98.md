@@ -1,0 +1,19 @@
+Verses of the Senior Monks 1.98
+
+The Book of the Ones
+
+Chapter Ten
+
+Abhaya
+
+When you see a sight, mindfulness is lost
+
+as you focus on a pleasant feature.
+
+Experiencing it with a mind full of desire,
+
+you keep clinging to it.
+
+Your defilements grow,
+
+leading to the root of rebirth.

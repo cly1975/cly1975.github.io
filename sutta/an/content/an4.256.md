@@ -1,0 +1,13 @@
+Numbered Discourses 4.256
+
+26. Insight
+
+Ways of Being Inclusive
+
+“Mendicants, there are these four ways of being inclusive.
+
+What four?
+
+Giving, kindly words, taking care, and equality.
+
+These are the four ways of being inclusive.”
