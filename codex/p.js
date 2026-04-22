@@ -1,7 +1,7 @@
 // 创建悬浮图片按钮
 function createFloatingImgBtn() {
     var imgBtn = document.createElement('img');
-    imgBtn.src = "https://www.wisde.com/codex/ai.png";
+    imgBtn.src = "https://www.nikaya.cc/codex/ai.png";
     imgBtn.style.width = "46px";
     imgBtn.style.bottom = "20px";
     imgBtn.style.right = "20px";
@@ -39,7 +39,7 @@ function createFloatingLayer() {
     div.style.zIndex = "10000"; 
     // 添加关闭按钮
     var closeButton = document.createElement('button');
-    closeButton.innerText = '关闭';
+    closeButton.innerText = 'Close';
     closeButton.addEventListener('click', function() {
         div.parentNode.removeChild(div);
     });
@@ -52,7 +52,7 @@ function createFloatingLayer() {
     div.appendChild(closeButton);
 
     var iframe = document.createElement('iframe');
-    iframe.src = "https://www.kimi.com/";
+    iframe.src = "https://chatgpt.com/";
     iframe.style.width = '100%';
     iframe.style.height = '100%';
     iframe.style.border = 'none';
