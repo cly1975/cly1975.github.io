@@ -18,11 +18,11 @@
 
 | [Nikaya] Pali Discourses |
 | :-----: |
-| [Middle-length Discourses](mn/SUMMARY.md) (moderate length teachings) |
-| [Connected Discourses](sn/SUMMARY.md) (grouped by topic) |
-| [Long Discourses](dn/SUMMARY.md) (long, structured dialogues) |
-| [Numerical Discourses](an/SUMMARY.md) (organized by number) |
-| [Minor Collection](kn/SUMMARY.md) (various smaller texts) |
+| [Middle-length Discourses](sutta/mn/SUMMARY.md) (moderate length teachings) |
+| [Connected Discourses](sutta/sn/SUMMARY.md) (grouped by topic) |
+| [Long Discourses](sutta/dn/SUMMARY.md) (long, structured dialogues) |
+| [Numerical Discourses](sutta/an/SUMMARY.md) (organized by number) |
+| [Minor Collection](sutta/kn/SUMMARY.md) (various smaller texts) |
 
 <div class="s16">
 This section gathers English translations of the Pali Sutta collections in the Nikayas. We hope that by reading these early Buddhist discourses, readers can better understand the aims of practice in the Buddha's time, the methods of cultivation, and the wisdom that leads to the ending of suffering.
