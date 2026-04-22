@@ -39,9 +39,14 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
           {% assign current_url = page.url | default: "/" %}
+          {% assign is_english_section = current_url contains '/sutta/' %}
+          <h1 id="project_title">
+            {% if is_english_section %}Ending of Suffering{% else %}{{ site.title | default: site.github.repository_name }}{% endif %}
+          </h1>
+          <h2 id="project_tagline">
+            {% if is_english_section %}Read Early Buddhist Discourses{% else %}{{ site.description | default: site.github.project_tagline }}{% endif %}
+          </h2>
           <p class="lang-switch">
             <a href="{{ '/chilin/' | relative_url }}" lang="zh-Hans" class="{% if current_url contains '/chilin/' %}active{% endif %}">中文</a>
             <span class="sep">|</span>
