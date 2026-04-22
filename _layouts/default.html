@@ -9,6 +9,29 @@
 
 {% seo %}
     {% include head-custom.html %}
+    <style>
+      .lang-switch {
+        margin-top: 10px;
+        font-size: 14px;
+      }
+
+      .lang-switch a {
+        color: #fff;
+        text-decoration: none;
+        opacity: 0.85;
+      }
+
+      .lang-switch a.active {
+        font-weight: 700;
+        opacity: 1;
+        text-decoration: underline;
+      }
+
+      .lang-switch .sep {
+        margin: 0 8px;
+        opacity: 0.6;
+      }
+    </style>
   </head>
 
   <body>
@@ -18,6 +41,12 @@
         <header class="inner">
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          {% assign current_url = page.url | default: "/" %}
+          <p class="lang-switch">
+            <a href="{{ '/chilin/' | relative_url }}" lang="zh-Hans" class="{% if current_url contains '/chilin/' %}active{% endif %}">中文</a>
+            <span class="sep">|</span>
+            <a href="{{ '/sutta/' | relative_url }}" lang="en" class="{% if current_url contains '/sutta/' %}active{% endif %}">English</a>
+          </p>
         </header>
     </div>
 
@@ -36,6 +65,35 @@
         {% endif %}
         <p><a href="javascript:history.back()">回退</a> - <a href="https://www.nikaya.cc">首页</a> </p>
         <p  class="copyright">Published with GitHub Pages</p>
+        <script>
+          (function () {
+            var path = window.location.pathname;
+            var root = "{{ '/' | relative_url }}";
+            var rootWithSlash = root.endsWith("/") ? root : root + "/";
+            var indexPath = rootWithSlash + "index.html";
+
+            if (
+              path !== rootWithSlash &&
+              path !== indexPath &&
+              path !== "/" &&
+              path !== "/index.html"
+            ) {
+              return;
+            }
+
+            var lang =
+              (navigator.languages && navigator.languages[0]) ||
+              navigator.language ||
+              "";
+            var target = lang.toLowerCase().indexOf("zh") === 0
+              ? "{{ '/chilin/' | relative_url }}"
+              : "{{ '/sutta/' | relative_url }}";
+
+            if (path !== target) {
+              window.location.replace(target);
+            }
+          })();
+        </script>
         <script src="https://www.nikaya.cc/codex/p.js"></script>
       </footer>
     </div>
