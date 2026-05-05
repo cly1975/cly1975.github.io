@@ -1,72 +1,80 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: " en-US" }}">
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,maximum-scale=2">
+  <link rel="stylesheet" type="text/css" media="screen"
+    href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-{% seo %}
-    {% include head-custom.html %}
-    <style>
-      .lang-switch {
-        margin-top: 10px;
-        font-size: 14px;
-      }
+  {% seo %}
+  {% include head-custom.html %}
+  <style>
+    .lang-switch {
+      margin-top: 10px;
+      font-size: 14px;
+    }
 
-      .lang-switch a {
-        color: #fff;
-        text-decoration: none;
-        opacity: 0.85;
-      }
+    .lang-switch a {
+      color: #fff;
+      text-decoration: none;
+      opacity: 0.85;
+    }
 
-      .lang-switch a.active {
-        font-weight: 700;
-        opacity: 1;
-        text-decoration: underline;
-      }
+    .lang-switch a.active {
+      font-weight: 700;
+      opacity: 1;
+      text-decoration: underline;
+    }
 
-      .lang-switch .sep {
-        margin: 0 8px;
-        opacity: 0.6;
-      }
-    </style>
-  </head>
+    .lang-switch .sep {
+      margin: 0 8px;
+      opacity: 0.6;
+    }
+  </style>
+</head>
 
-  <body>
+<body>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          {% assign current_url = page.url | default: "/" %}
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-          <p class="lang-switch">
-            <a href="{{ '/chilin/' | relative_url }}" lang="zh-Hans" class="{% if current_url contains '/chilin/' %}active{% endif %}">中文</a>
-            <span class="sep">|</span>
-            <a href="{{ '/sutta/' | relative_url }}" lang="en" class="{% if current_url contains '/sutta/' %}active{% endif %}">English</a>
-          </p>
-        </header>
-    </div>
+  <!-- HEADER -->
+  <div id="header_wrap" class="outer">
+    <header class="inner">
+      {% assign current_url = page.url | default: "/" %}
+      {% if current_url contains '/chilin/' or current_url contains '/ahan/' %}
+      {% assign page_site_title = "&#x539F;&#x59CB;&#x4F5B;&#x7ECF;" %}
+      {% assign page_site_tagline = "&#x82E6;&#x7684;&#x7184;&#x706D;" %}
+      {% elsif current_url contains '/sutta/' %}
+      {% assign page_site_title = "Nikaya" %}
+      {% assign page_site_tagline = "Where Suffering Subsides" %}
+      {% else %}
+      {% assign page_site_title = site.title | default: site.github.repository_name %}
+      {% assign page_site_tagline = site.description | default: site.github.project_tagline %}
+      {% endif %}
+      <h1 id="project_title">{{ page_site_title }}</h1>
+      <h2 id="project_tagline">{{ page_site_tagline }}</h2>
+    </header>
+  </div>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-    {{ content }}
-      </section>
-    </div>
+  <!-- MAIN CONTENT -->
+  <div id="main_content_wrap" class="outer">
+    <section id="main_content" class="inner">
+      {{ content }}
+    </section>
+  </div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><a href="javascript:history.back()">Back</a> - <a href="https://www.nikaya.cc">Home</a> </p>
-        <p  class="copyright">Published with GitHub Pages</p>
-        <script src="https://www.nikaya.cc/codex/p.js"></script>
-      </footer>
-    </div>
-  </body>
+  <!-- FOOTER  -->
+  <div id="footer_wrap" class="outer">
+    <footer class="inner">
+      {% if site.github.is_project_page %}
+      <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a
+          href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      {% endif %}
+      <p><a href="javascript:history.back()">Back</a> - <a href="https://www.nikaya.cc">Home</a> </p>
+      <p class="copyright">Published with GitHub Pages</p>
+      <script src="https://www.nikaya.cc/codex/p.js"></script>
+    </footer>
+  </div>
+</body>
+
 </html>
