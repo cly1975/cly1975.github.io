@@ -32,6 +32,16 @@
       margin: 0 8px;
       opacity: 0.6;
     }
+
+    #project_title a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    #project_title a:hover,
+    #project_title a:focus {
+      text-decoration: underline;
+    }
   </style>
 </head>
 
@@ -51,7 +61,7 @@
       {% assign page_site_title = site.title | default: site.github.repository_name %}
       {% assign page_site_tagline = site.description | default: site.github.project_tagline %}
       {% endif %}
-      <h1 id="project_title">{{ page_site_title }}</h1>
+      <h1 id="project_title"><a href="{{ '/' | relative_url }}">{{ page_site_title }}</a></h1>
       <h2 id="project_tagline">{{ page_site_tagline }}</h2>
     </header>
   </div>
