@@ -248,16 +248,18 @@
 </head>
 <body>
 
+    <!-- Canvas for background dynamic effect (dust / incense smoke) -->
     <canvas id="canvas-bg"></canvas>
 
     <div class="container">
         <div class="lang-switch">
-            <button id="btn-zh">中文</button>
+            <button id="btn-zh" class="active">中文</button>
             <span style="color:var(--border-color)">|</span>
             <button id="btn-en">English</button>
         </div>
 
-        <div id="content-zh" class="content-section">
+        <!-- Content for Chinese -->
+        <div id="content-zh" class="content-section active fade-in">
             <h1>Nikaya-原始佛经</h1>
             <div class="subtitle">苦的熄灭</div>
             <p class="description">
@@ -290,6 +292,7 @@
             </div>
         </div>
 
+        <!-- Content for English -->
         <div id="content-en" class="content-section">
             <h1>Nikaya Suttas</h1>
             <div class="subtitle">How Suffering Subsides</div>
@@ -349,15 +352,6 @@
 
         btnZh.addEventListener('click', () => switchLang('zh'));
         btnEn.addEventListener('click', () => switchLang('en'));
-
-        // 【新增】自动检测浏览器语言并初始化
-        const userLang = navigator.language || navigator.userLanguage;
-        // 如果语言代码以 'zh' 开头（涵盖 zh-CN, zh-TW, zh-HK 等），则显示中文，否则全显英文
-        if (userLang.toLowerCase().startsWith('zh')) {
-            switchLang('zh');
-        } else {
-            switchLang('en');
-        }
 
         // Background Particle Animation (Falling Petals effect)
         const canvas = document.getElementById('canvas-bg');
